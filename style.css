@@ -1,0 +1,21 @@
+body{
+    font-size: 40px;
+    background-color: #DFCFBE;
+}
+
+.navtext{
+    font-size: 40px;
+}
+
+.bold{
+    font-weight: bold;
+}
+
+.heading{
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.button-text{
+    font-size:30px;
+}
